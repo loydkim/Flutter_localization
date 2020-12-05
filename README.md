@@ -1,5 +1,7 @@
 # localizationtest
 
+<img src="https://github.com/loydkim/Flutter_localization/blob/main/Preview.gif" width="300" height="520">
+
 * Develop environment.
 
 - Flutter SDK Version: 1.20.4
