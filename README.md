@@ -1,6 +1,15 @@
 # localizationtest
 
-A new Flutter application.
+* Develop environment.
+
+- Flutter SDK Version: 1.20.4
+- Flutter: 50.0.1
+- Dart: 193.7547
+- Xcode Version: 12.0.1
+- Android Studio: 4.0
+- OS Version: MacOS Catalina 10.15.7
+
+#Flutter, #MobileApp, #BlogUI
 
 ## Getting Started
 
