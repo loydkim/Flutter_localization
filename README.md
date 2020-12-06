@@ -2,6 +2,8 @@
 
 <img src="https://github.com/loydkim/Flutter_localization/blob/main/Preview.gif" width="300" height="520">
 
+[![Youtube](https://img.youtube.com/vi/AiFCMIhfwOI/0.jpg)](https://youtu.be/AiFCMIhfwOI)
+
 * Develop environment.
 
 - Flutter SDK Version: 1.20.4
