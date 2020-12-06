@@ -2,6 +2,8 @@
 
 <img src="https://github.com/loydkim/Flutter_localization/blob/main/Preview.gif" width="300" height="520">
 
+* Please Watch it How to add Flutter itnl pacakage and setting it *
+
 [![Youtube](https://img.youtube.com/vi/AiFCMIhfwOI/0.jpg)](https://youtu.be/AiFCMIhfwOI)
 
 * Develop environment.
